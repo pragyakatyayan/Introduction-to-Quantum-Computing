@@ -1,7 +1,7 @@
 # Introduction-to-Quantum-Computing
 Lecture content from my R-Ladies, New Delhi [talk](https://www.meetup.com/rladies-new-delhi/events/271845501/).
 
-The repository has the presentation, hands-on exercise notebooks explained during the lecture for public use.    
+The repository has the presentation and hands-on exercise notebooks explained during the lecture for public use.    
 The practical was done using Python Qiskit library.
 
 Thanks!
